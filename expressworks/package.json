@@ -1,0 +1,18 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "expressworks solutions",
+  "main": "",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "stylus": "^0.54.5",
+    "body-parser": "^1.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Dai",
+  "license": "ISC"
+}
